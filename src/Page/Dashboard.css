@@ -1,0 +1,26 @@
+.container-fluid {
+   height: 100vh;;
+}
+
+.row {
+   height: 100%;
+}
+
+.container-fluid .form-kiri {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   padding: 25px;
+}
+
+.container-fluid .form-kanan {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.container-fluid .form-kanan img {
+   height: 70%;
+   width: 70%;
+}
